@@ -1,2 +1,2 @@
 # baller
-ackend server for a football prediction platform
+Backend server for a football prediction platform
