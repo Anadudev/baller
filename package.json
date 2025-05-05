@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Anadudev/baller#readme",
   "dependencies": {
+    "@prisma/client": "^6.7.0",
     "express": "^5.1.0",
     "socket.io": "^4.8.1"
   },
@@ -28,7 +29,12 @@
     "@types/express": "^5.0.1",
     "@types/node": "^22.15.3",
     "@types/socket.io": "^3.0.1",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.8",
     "nodemon": "^3.1.10",
+    "prisma": "^6.7.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
